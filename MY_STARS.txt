@@ -1,0 +1,29 @@
+CHALLENGE 1 : GOLD STAR⭐ in 30 sec
+CHALLENGE 2 : GOLD STAR⭐ in 30 sec
+CHALLENGE 3 : GOLD STAR⭐ in < 30 sec   
+CHALLENGE 4 : GOLD STAR⭐ in 30 sec   
+CHALLENGE 5 : GOLD STAR⭐ in  1 min
+CHALLENGE 6 : GOLD STAR⭐ in < 15 sec
+CHALLENGE 7 : GOLD STAR⭐ in 3 min
+CHALLENGE 8 : GOLD STAR⭐ in < 5 min (Challenging)
+CHALLENGE 9 : GOLD STAR⭐ in  7 min (bootstrap adding)
+CHALLENGE 10 : GOLD STAR⭐ in 7 min (creating js object for postTitle/body)
+CHALLENGE 11 : GOLD STAR⭐ in 5 min (creating posts global array and redirect it)
+CHALLENGE 12 : GOLD STAR⭐ in 10+ min (logging posts array from home instead of direct app.get("/"))  (Quite challenging)
+CHALLENGE 13 : GOLD STAR⭐ in 5 min (targetting title using for loop in home)
+CHALLENGE 14 : GOLD STAR⭐ in 2 min (replace for loop to foreach)
+CHALLENGE 15 : GOLD STAR⭐ in 7 min (displaying on home post.title and content )
+CHALLENGE 16 : GOLD STAR⭐ in 7 min (making route parameters for /posts/:name)
+CHALLENGE 17 : GOLD STAR⭐ in 20+ min (matching post.title with route.param.TITLE)
+CHALLENGE 18 : GOLD STAR⭐ in 10+ min (adding lodash module)
+CHALLENGE 19 : GOLD STAR⭐ in 5 min (showing post/:name page instead of console.logging the matched title)
+CHALLENGE 20 : GOLD STAR⭐ in 5 min (limiting 100 char + ... at end )
+CHALLENGE 21 : GOLD STAR⭐ in 7 min (adding ReadMore & display on /posts/:var page)
+
+
+<!-- Latest compiled and minified CSS -->
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css" rel="stylesheet">
+
+<!-- Latest compiled JavaScript -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/js/bootstrap.bundle.min.js"></script>
+
